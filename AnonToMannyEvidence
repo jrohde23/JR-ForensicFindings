@@ -1,0 +1,91 @@
+220 mx.google.com ESMTP ca18e2360f4ac-8648c257e14si294062539f.126 - gsmtp
+EHLO Mannys-Box.localdomain
+250-mx.google.com at your service, [173.23.44.47]
+250-SIZE 157286400
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+MAIL FROM:<> SIZE=2809 BODY=8BITMIME
+RCPT TO:<anon@anon.com>
+DATA
+250 2.1.0 OK ca18e2360f4ac-8648c257e14si294062539f.126 - gsmtp
+250 2.1.5 OK ca18e2360f4ac-8648c257e14si294062539f.126 - gsmtp
+354 Go ahead ca18e2360f4ac-8648c257e14si294062539f.126 - gsmtp
+Received: by Mannys-Box.localdomain (Postfix)
+	id 46858A57E8; Tue, 29 Apr 2025 20:18:35 -0500 (CDT)
+Date: Tue, 29 Apr 2025 20:18:35 -0500 (CDT)
+From: Mail Delivery System <MAILER-DAEMON@mannyemail.com>
+Subject: Undelivered Mail Returned to Sender
+To: anon@anon.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="17DEDA577F.1745975915/Mannys-Box.localdomain"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20250430011835.46858A57E8@Mannys-Box.localdomain>
+
+This is a MIME-encapsulated message.
+
+--17DEDA577F.1745975915/Mannys-Box.localdomain
+Content-Description: Notification
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+This is the mail system at host mannys-box.localdomain.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<manny@mannyemail.com>: Host or domain name not found. Name service error for
+    name=mannyemail.com type=AAAA: Host not found
+
+--17DEDA577F.1745975915/Mannys-Box.localdomain
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; Mannys-Box.localdomain
+X-Postfix-Queue-ID: 17DEDA577F
+X-Postfix-Sender: rfc822; anon@anon.com
+Arrival-Date: Tue, 29 Apr 2025 20:18:35 -0500 (CDT)
+
+Final-Recipient: rfc822; manny@mannyemail.com
+Original-Recipient: rfc822;manny@mannyemail.com
+Action: failed
+Status: 5.4.4
+Diagnostic-Code: X-Postfix; Host or domain name not found. Name service error
+    for name=mannyemail.com type=AAAA: Host not found
+
+--17DEDA577F.1745975915/Mannys-Box.localdomain
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <anon@anon.com>
+Received: by Mannys-Box.localdomain (Postfix, from userid 1000)
+	id 17DEDA577F; Tue, 29 Apr 2025 20:18:35 -0500 (CDT)
+Subject: Proposal
+From: anon@anon.com
+To: <manny@mannyemail.com>
+User-Agent: mail (GNU Mailutils 3.17)
+Date: Tue, 29 Apr 2025 20:18:35 -0500
+Message-Id: <20250430011835.17DEDA577F@Mannys-Box.localdomain>
+
+Hello Manny, I have had my eye on you for a while now.. We know everything about you. We know you are broke from your gambling and sports betting habits.  However, Anonymous has a solution for you: Give us access to your client data from January 2024... and we will transfer 0,000 to your bank account, no strings attached. In order to transfer the money, you must give us your account and routing number.
+
+--17DEDA577F.1745975915/Mannys-Box.localdomain--
+.
+QUIT
+550-5.7.1 [173.23.44.47      12] Gmail has detected that this message is likely
+550-5.7.1 unsolicited mail. To reduce the amount of spam sent to Gmail, this
+550-5.7.1 message has been blocked. For more information, go to
+550 5.7.1  https://support.google.com/mail/?p=UnsolicitedMessageError ca18e2360f4ac-8648c257e14si294062539f.126 - gsmtp
